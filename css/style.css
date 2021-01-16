@@ -121,7 +121,7 @@ nav{
     background-image:linear-gradient( rgba(27, 6, 21, 0.726),rgba(20, 9, 4, 0.815)), url(../image/back1.jpg);
     background-size: cover;
     background-position: center;
-    height: 100vh;
+    height: 110vh;
 }
 .header h1{
     color: #fff;
