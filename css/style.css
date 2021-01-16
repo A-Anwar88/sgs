@@ -126,7 +126,7 @@ nav{
 .header h1{
     color: #fff;
     text-align: center;
-    font-size: 50px;
+    font-size: 40px;
     margin-top: 30vh;
 
 }
@@ -630,7 +630,7 @@ hr{
 
 
 .products-section .product-content .product-name{
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 600;
     color: rgb(238, 235, 235);
     line-height: 26px;
